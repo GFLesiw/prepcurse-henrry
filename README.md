@@ -1,2 +1,1 @@
-# prepcurse-henrry
-archivo de pueba para creacion de repositorio en github
+archivo de pueba creacion de repositorio y clonacion desde la  nube
